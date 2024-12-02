@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+🌱 I’m currently Software Engineering Student at Holberton School
 
 <!--
 **neodwin/neodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
